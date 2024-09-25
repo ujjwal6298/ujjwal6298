@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ujjwal6298
 - 👀 I’m interested in python programming 
-- 🌱 I’m currently learning ML,Web development using django and flask
-- 💞️ I’m looking to collaborate on any work or project related on ML,opencv,tkinter,web development
+- 🌱 I’m currently learning Generative AI and trying to integrate AI models.
+- 💞️ I’m looking to collaborate on any work or project related on ML,deep learning,artificial intelligence,opencv,Generative AI. 
 - 📫 How to reach me ujjwalaryan99@gmail.com 
 
 <!---
